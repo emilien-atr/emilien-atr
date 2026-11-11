@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/banner.svg" alt="LayroZZ — ChestCounterFortnite" width="100%">
+</div>
 
-<!--
-**emilien-atr/emilien-atr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salut, moi c'est LayroZZ 👋
 
-Here are some ideas to get you started:
+Je code des outils qui me servent au quotidien — surtout **ChestCounterFortnite**, un compteur de coffres pour Fortnite avec overlay en jeu et rapport web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 En ce moment : **ChestCounterFortnite** (C# / .NET / WebView2)
+- 🧰 Stack : **C# · .NET · Python · HTML/CSS · WebView2**
+- 🎨 À côté : **modélisation 3D**
+- 🌐 Portfolio : [emilien-atr.github.io](https://emilien-atr.github.io)
+
+---
+
+## 🎯 Projet phare — ChestCounterFortnite
+
+<a href="https://github.com/emilien-atr/ChestCounterFortnite">
+  <img src="https://raw.githubusercontent.com/emilien-atr/ChestCounterFortnite/main/app-accueil-1.0.png" alt="ChestCounterFortnite" width="760">
+</a>
+
+Compteur de coffres Fortnite **hors ligne**, basé sur les rediffusions : overlay en jeu, rapport web détaillé, historique des parties, plusieurs langues. Aucune modification du jeu, aucune donnée envoyée.
+
+[**Voir le projet →**](https://github.com/emilien-atr/ChestCounterFortnite)
+
+---
+
+## 🧰 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=microsoftedge&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emilien-atr&show_icons=true&hide_border=true&title_color=E8B04B&icon_color=B48CFF&text_color=C9C3D8&bg_color=14101F" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilien-atr&layout=compact&hide_border=true&title_color=E8B04B&text_color=C9C3D8&bg_color=14101F" height="160">
+</p>
+
+---
+
+## 🧩 Autres projets
+
+- [**emilien-atr.github.io**](https://github.com/emilien-atr/emilien-atr.github.io) — site personnel
+- [**emilpicture.github.io**](https://github.com/emilien-atr/emilpicture.github.io) — galerie / images
+- [**telegram-bot**](https://github.com/emilien-atr/telegram-bot) — bot Telegram en Python
+
+---
+
+<div align="center">
+  <a href="https://github.com/emilien-atr"><img src="https://img.shields.io/badge/GitHub-emilien--atr-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://emilien-atr.github.io"><img src="https://img.shields.io/badge/Portfolio-emilien--atr.github.io-E8B04B?style=for-the-badge&logo=firefox&logoColor=white"></a>
+</div>
