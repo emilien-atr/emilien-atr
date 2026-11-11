@@ -9,7 +9,6 @@ Je code des outils qui me servent au quotidien — surtout **ChestCounterFortnit
 - 🔭 En ce moment : **ChestCounterFortnite** (C# / .NET / WebView2)
 - 🧰 Stack : **C# · .NET · Python · HTML/CSS · WebView2**
 - 🎨 À côté : **modélisation 3D**
-- 🌐 Portfolio : [emilien-atr.github.io](https://emilien-atr.github.io)
 
 ---
 
@@ -48,15 +47,6 @@ Compteur de coffres Fortnite **hors ligne**, basé sur les rediffusions : overla
 
 ---
 
-## 🧩 Autres projets
-
-- [**emilien-atr.github.io**](https://github.com/emilien-atr/emilien-atr.github.io) — site personnel
-- [**emilpicture.github.io**](https://github.com/emilien-atr/emilpicture.github.io) — galerie / images
-- [**telegram-bot**](https://github.com/emilien-atr/telegram-bot) — bot Telegram en Python
-
----
-
 <div align="center">
   <a href="https://github.com/emilien-atr"><img src="https://img.shields.io/badge/GitHub-emilien--atr-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://emilien-atr.github.io"><img src="https://img.shields.io/badge/Portfolio-emilien--atr.github.io-E8B04B?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </div>
